@@ -1,6 +1,6 @@
 {
   "name": "m8abrar-atm-machine",
-  "version": "1.0.2",
+  "version": "2.0.1",
   "description": "This is my atm machine",
   "main": "index.js",
   "type": "module",
